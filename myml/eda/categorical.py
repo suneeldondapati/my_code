@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 """
-Filename: eda
+Filename: categorical
 Date: 2019-05-09 11:28
 Project: myml
 AUTHOR: Suneel Dondapati
